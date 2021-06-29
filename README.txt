@@ -1,0 +1,1 @@
+The project is encoded in Codeblocks version 13.12. The menu of the project moves up and down with w.
